@@ -1,12 +1,9 @@
 <img align="left" width="200" height="200" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
 
-### Hello World! This is [Dhruv Panchal](https://dhhruv.github.io/) 👋
+### Hello World! This is [Prutha Upadhyay](https://Prutha-Upadhyay.github.io/) 👋
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=dhhruv&color=blue" alt="dhhruv" /> 
-</p>
+I am a Computer Engineering student currently pursuing my Bachelor’s degree at LJ Institute of Engineering and Technology. My passion for continuous learning and professional growth motivates me to seek opportunities that challenge my skills and help me evolve as a developer. I am driven by a desire to contribute to impactful projects, and I am eager to find a platform that will allow me to enhance my expertise and excel in the field of technology.
 
-I am a graduate student currently enrolled in the Masters program in Applied Computer Science at Concordia University. My passion for continuous personal and professional development drives me to seek opportunities that will enable me to enhance my skills and competencies. I am highly motivated to contribute my expertise to meaningful projects and am eager to find a platform that will support my growth and enable me to excel in my field.
 
 <br>
 <br>
