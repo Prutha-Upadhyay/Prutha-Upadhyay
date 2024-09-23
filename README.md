@@ -1,4 +1,5 @@
-<img align="left" width="200" height="200" alt="dhhruv" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
+<img align="left" width="200" height="200" alt="dhhruv" src="![hi](https://github.com/user-attachments/assets/f3f17a86-3ed0-44ea-84b4-6851f6e2ff20)
+" />
 
 ### Hello World! This is [Prutha Upadhyay](https://Prutha-Upadhyay.github.io/) 👋
 
