@@ -13,37 +13,41 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 ### About Me 🚀
 
-- 🔭 Currently engaging in Competitive Programming activities.
-- 📈 Possess a strong passion for Data Science and Machine Learning.
-- 🤓 Seeking collaboration opportunities for Python-based 🐍 projects.
-- 💬 Always willing to offer assistance and guidance on any relevant topics.
+- 🔭 Currently engaged in projects
+- 📈 Possess a strong passion for Full Stack Devloper.
+- 🤓 Seeking collaboration opportunities for MERN-based,JAVA-based and Python-based 🐍 projects.
 - 📫 Contact me via my [website](https://dhhruv.github.io).
 - 📝 Review my [Resume]((https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf)) for additional information.
 
-
 <br>
 
-### Coding Profiles 🧔
-[<img align="left" alt="codeSTACKr | HackerRank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/panchaldhruvn)
-[<img align="left" alt="codeSTACKr | HackerEarth" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@dhhruv23)
-[<img align="left" alt="BinarySearch" src="https://user-images.githubusercontent.com/72680045/103211911-7929b880-492f-11eb-9ea9-cafa0413fedf.png" />](https://binarysearch.com/@/lasa73)
 <br>
-<br>
-
-### Connect with me 👋
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhhruv/)
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhhruv23/)
-[<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dhhruv@protonmail.com)
-[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://dhhruv.medium.com/)
-<a href="https://dev.to/dhhruv">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhruv Panchal's DEV Community Profile" height="35" width="35">
-</a>
+### Languages and Tools 🛠️
+[<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" />](https://expressjs.com/)
+[<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](https://reactjs.org/)
+[<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" />](https://nodejs.org/)
+[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />](https://getbootstrap.com/)
+[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
+[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://www.java.com/)
+[<img align="left" alt="DBMS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/database.svg" />](https://en.wikipedia.org/wiki/Database_management_system)
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhhruv&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhhruv&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="dhhruv" width="37%" />
+### Connect with Me 🌐
+
+[<img align="left" alt="Prutha Upadhyay | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/prutha-upadhyay/)
+[<img align="left" alt="Prutha Upadhyay | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:pruthu.ad@gmail.com)
+l
+<br clear="left" />
+
+<br>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prutha-Upadhyay&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="Prutha" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prutha-Upadhyay&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="Prutha" width="37%" />
 
 <br>
 <br>
