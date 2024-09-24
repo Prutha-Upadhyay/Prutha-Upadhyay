@@ -27,21 +27,14 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://mongodb.org/)
-[![My Skills](https://skillicons.dev/icons?i=node)](https://mongodb.org/)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://express.org/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=html)](ttps://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 
-
-
-[<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://expressjs.com/)
-[<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://nodejs.org/)
-[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://getbootstrap.com/)
-[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.python.org/)
-[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.java.com/)
-[<img align="left" alt="DBMS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/database.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://en.wikipedia.org/wiki/Database_management_system)
 
 
 <br>
