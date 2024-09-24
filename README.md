@@ -33,8 +33,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-
 
 
 <br>
@@ -42,18 +40,22 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 ### Connect with Me 🌐
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prutha-upadhyay/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pruthu.ad@gmail.com)
+
 [<img align="left" alt="Prutha Upadhyay | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://www.linkedin.com/in/prutha-upadhyay/)
 [<img align="left" alt="Prutha Upadhyay | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](mailto:pruthu.ad@gmail.com)
+
 
 
 <br clear="left" />
 
 <br>
 <br>
+ 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prutha-Upadhyay&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="Prutha" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prutha-Upadhyay&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="Prutha" width="37%" />
 
-<br>
+
+
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
