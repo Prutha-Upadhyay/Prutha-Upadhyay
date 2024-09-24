@@ -36,26 +36,17 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 
 <br>
-<br>
+
 
 ### Connect with Me 🌐
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prutha-upadhyay/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pruthu.ad@gmail.com)
 
-[<img align="left" alt="Prutha Upadhyay | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://www.linkedin.com/in/prutha-upadhyay/)
-[<img align="left" alt="Prutha Upadhyay | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](mailto:pruthu.ad@gmail.com)
-
-
 
 <br clear="left" />
 
 <br>
-<br>
- 
-
-
-
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
