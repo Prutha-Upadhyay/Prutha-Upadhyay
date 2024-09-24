@@ -24,7 +24,7 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://express.org/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.org/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=html)](ttps://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
