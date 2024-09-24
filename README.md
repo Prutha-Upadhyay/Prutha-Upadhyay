@@ -8,9 +8,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 <br>
 <br>
 
-
-<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ### About Me 🚀
 
 - 🔭 Currently engaged in projects
