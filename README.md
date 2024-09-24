@@ -26,6 +26,7 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 ### Languages and Tools 🛠️
 
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.mongodb.com/)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" alt="Node.js" width="35px" style="filter: invert(100%);"/>
 
 [<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://expressjs.com/)
 [<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://reactjs.org/)
