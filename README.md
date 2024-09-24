@@ -18,8 +18,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 <br>
 
-<br>
-
 ### Languages and Tools 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
@@ -43,7 +41,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 <br clear="left" />
 
-<br>
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
