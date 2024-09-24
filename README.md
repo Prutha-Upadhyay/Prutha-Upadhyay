@@ -24,16 +24,19 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 <br>
 
 ### Languages and Tools 🛠️
-[<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://www.mongodb.com/)
-[<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://expressjs.com/)
-[<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://nodejs.org/)
-[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://getbootstrap.com/)
-[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://www.python.org/)
-[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://www.java.com/)
-[<img align="left" alt="DBMS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/database.svg" style="filter: invert(30%) sepia(100%) saturate(100%) hue-rotate(180deg);" />](https://en.wikipedia.org/wiki/Database_management_system)
+
+[<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.mongodb.com/)
+
+[<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://expressjs.com/)
+[<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://reactjs.org/)
+[<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://nodejs.org/)
+[<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://getbootstrap.com/)
+[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.python.org/)
+[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://www.java.com/)
+[<img align="left" alt="DBMS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/database.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://en.wikipedia.org/wiki/Database_management_system)
+
 
 <br>
 <br>
