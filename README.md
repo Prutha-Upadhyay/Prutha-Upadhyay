@@ -25,7 +25,9 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 ### Languages and Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+
 
 [<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://expressjs.com/)
 [<img align="left" alt="React.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://reactjs.org/)
