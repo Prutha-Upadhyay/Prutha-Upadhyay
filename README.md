@@ -27,6 +27,10 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://mongodb.org/)
+[![My Skills](https://skillicons.dev/icons?i=node)](https://mongodb.org/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+
 
 
 [<img align="left" alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(200%);" />](https://expressjs.com/)
