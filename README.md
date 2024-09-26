@@ -1,6 +1,6 @@
 <img align="left" width="200" height="200" alt="prutha" src="https://github.com/user-attachments/assets/f3f17a86-3ed0-44ea-84b4-6851f6e2ff20"/>
 
-### Hello World! This is [Prutha Upadhyay] 👋
+### Hello World! This is Prutha Upadhyay 👋
 
 I am a Computer Engineering student currently pursuing my Bachelor’s degree at LJ Institute of Engineering and Technology. My passion for continuous learning and professional growth motivates me to seek opportunities that challenge my skills and help me evolve as a developer. I am driven by a desire to contribute to impactful projects, and I am eager to find a platform that will allow me to enhance my expertise and excel in the field of technology.
 
