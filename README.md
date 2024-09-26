@@ -13,7 +13,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 - 🔭 Currently engaged in projects
 - 📈 Possess a strong passion for Full Stack Devloper.
 - 🤓 Seeking collaboration opportunities for MERN-based,JAVA-based and Python-based 🐍 projects.
-- 📝 Review my [[Prutha_Upadhyay_s_Resume_Updated25-09.pdf]((https://github.com/user-attachments/files/17153342/Prutha_Upadhyay_s_Resume_Updated25-09.pdf)) for additional information.
 
 <br>
 
