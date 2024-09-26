@@ -13,7 +13,6 @@ I am a Computer Engineering student currently pursuing my Bachelor’s degree at
 - 🔭 Currently engaged in projects
 - 📈 Possess a strong passion for Full Stack Devloper.
 - 🤓 Seeking collaboration opportunities for MERN-based,JAVA-based and Python-based 🐍 projects.
-- 📫 Contact me via my [website](https://dhhruv.github.io).
 - 📝 Review my [Resume]((https://dhhruv.github.io/assets/Dhruv's%20Resume.pdf)) for additional information.
 
 <br>
